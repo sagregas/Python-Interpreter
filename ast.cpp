@@ -1,5 +1,4 @@
-// Companion source code for "flex & bison", published by O'Reilly
-// helper functions for fb3-1
+
 # include "ast.h"
 # include "symTable.h"  
 #include "tableManager.h"
